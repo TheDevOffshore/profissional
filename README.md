@@ -3,7 +3,7 @@
 > **Desenvolvedor · Dados & IA · Piloto RPAS Offshore**
 > Não desenvolvo para o offshore "de fora". Desenvolvo a partir de quem opera lá dentro.
 
-**🔗 Acesse:** [thedevoffshore.github.io/PortfolioDeveloper/](https://thedevoffshore.github.io/PortfolioDeveloper/)
+**🔗 Acesse:** [[thedevoffshore.github.io/PortfolioDeveloper/](https://thedevoffshore.github.io/portfolio-profissional/)](https://thedevoffshore.github.io/PortfolioDeveloper/)
 
 ---
 
